@@ -131,7 +131,7 @@ requirements.
 - src/www/css/site.css:
   - Contains exactly two references to `font-family` to style the site's fonts
 
-- images/travels_submission.png:
+- images/survey_submission.png:
   - The file exists in the correct directory with a screenshot of your final web site
 
 - GitHub repository:
